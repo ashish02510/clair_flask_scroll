@@ -1,4 +1,5 @@
 # clair_flask_scroll
+# web_application #python #flask #Python_framework #StylesheetCSS #scrollable_CSS #
 Created it for educational purposes only.
 Simple flask application integrated a scrollable cotent through Stylesheet Css.
   Below are the steps required to get this working on a base linux system.
